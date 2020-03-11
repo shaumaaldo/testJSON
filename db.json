@@ -4,7 +4,6 @@
     "message": "Data validateToken in RLDS is successfully",
     "data": {
         "commandList": {
-            "bizType": [
             "product": [
                 {
                     "abbreviationName": "BAWANG BOMBAY",
@@ -869,38 +868,6 @@
                     "sid": 181,
                     "smallCategory": "ok ok",
                     "snMddlCatSid": 1
-                }
-            ],
-            "snTax": [
-                {
-                    "code": "PPN",
-                    "id": 1,
-                    "name": "Pajak Pertambahan Nilai",
-                    "new": false,
-                    "sid": 1,
-                    "value": 10.00000
-                },
-                {
-                    "code": "PPH",
-                    "id": 2,
-                    "name": "Pajak Penghasilan",
-                    "new": false,
-                    "sid": 2,
-                    "value": 1.00000
-                }
-            ],
-            "snTaxStts": [
-                {
-                    "id": 1,
-                    "new": false,
-                    "sid": 1,
-                    "taxStatus": "Kena Pajak"
-                },
-                {
-                    "id": 2,
-                    "new": false,
-                    "sid": 2,
-                    "taxStatus": "Tidak Kena Pajak"
                 }
             ]
         }
